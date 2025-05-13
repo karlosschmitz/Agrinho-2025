@@ -85,3 +85,18 @@ a.cabecalho__botao {
     padding: 20px;
     border: 5px  solid  #fff;
 }
+/* estilo seção 1*/
+.secao1__descricao {
+    width: 50%;
+}
+.secao1__titulo {
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--preto-titulo);
+    margin-bottom: 0.2em;
+}
+.secao1__texto {
+    margin-top: 35px;
+    color: var(--preto-titulo);
+    font-size: 30px;
+}
